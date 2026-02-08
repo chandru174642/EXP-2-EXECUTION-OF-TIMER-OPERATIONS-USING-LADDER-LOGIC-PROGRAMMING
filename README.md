@@ -94,7 +94,7 @@ Retentive Timer: The output should turn on after the accumulated time reaches th
 
 <img width="785" height="237" alt="Screenshot 2026-02-08 184457" src="https://github.com/user-attachments/assets/a8aeabc8-683c-4f50-9ecd-bde0034e10e3" />
 
-<img width="1919" height="1079" alt="Screenshot 2026-02-08 184511" src="https://github.com/user-attachments/assets/a605fb19-e108-417c-954a-487a3ad2275e" />
+
 
 
 <img width="1900" height="1079" alt="Screenshot 2026-02-08 185627" src="https://github.com/user-attachments/assets/bb132853-c7dd-4a95-b303-01a0b2bf79cb" />
