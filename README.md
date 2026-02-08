@@ -1,10 +1,10 @@
 # EXECUTION-OF-TIMER-OPERATIONS-USING-LADDER-LOGIC-PROGRAMMING
 
 
- #### NAME :
- #### REGISTER NUMBER :
- #### DEPARTMENT 
- #### YEAR 
+ #### NAME :CHANDRU P
+ #### REGISTER NUMBER :212223110007
+ #### DEPARTMENT:CSE(IOT)
+ #### YEAR :3rd
 
  
 # Aim:
@@ -81,6 +81,27 @@ Retentive Timer: The output should turn on after the accumulated time reaches th
 
 
 # Simulation Screenshots 
+
+<img width="602" height="498" alt="Screenshot 2026-02-08 183820" src="https://github.com/user-attachments/assets/902fc7be-b6a9-4253-a335-12cdb8765e5e" />
+
+<img width="575" height="631" alt="Screenshot 2026-02-08 183838" src="https://github.com/user-attachments/assets/e5366939-89e7-4f94-857b-2e81edb80070" />
+
+<img width="841" height="443" alt="Screenshot 2026-02-08 183859" src="https://github.com/user-attachments/assets/dcd9485a-aad9-4bc5-aa6e-767279b72ecb" />
+
+<img width="696" height="640" alt="Screenshot 2026-02-08 184439" src="https://github.com/user-attachments/assets/0f969f24-0513-49ec-85b5-47d8d33086a2" />
+
+<img width="629" height="576" alt="Screenshot 2026-02-08 184449" src="https://github.com/user-attachments/assets/af8a1257-e7d0-4f99-98ab-4e4932bc827b" />
+
+<img width="785" height="237" alt="Screenshot 2026-02-08 184457" src="https://github.com/user-attachments/assets/a8aeabc8-683c-4f50-9ecd-bde0034e10e3" />
+
+<img width="1919" height="1079" alt="Screenshot 2026-02-08 184511" src="https://github.com/user-attachments/assets/a605fb19-e108-417c-954a-487a3ad2275e" />
+
+
+<img width="1900" height="1079" alt="Screenshot 2026-02-08 185627" src="https://github.com/user-attachments/assets/bb132853-c7dd-4a95-b303-01a0b2bf79cb" />
+
+
+
+
 
 
 
